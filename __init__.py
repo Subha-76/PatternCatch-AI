@@ -1,0 +1,1 @@
+"""ThinkPattern AI source package."""
